@@ -1,5 +1,5 @@
 # python-module-connector
-objeto utilizado para conectar distintos componentes de backend y frontend. con el objetivo de poder controlar de mejor manera los distintos escenarios que podrían ocurrir con la comunicación de estos.
+object used to connect different backend and frontend components. with the aim of being able to better control the different scenarios that could occur with the communication of these.
 
 ## structure
 
